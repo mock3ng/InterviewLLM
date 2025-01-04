@@ -38,16 +38,38 @@
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows, use venv\Scripts\activate
+ 
    ```
 
-4. **Install Dependencies**:  
+4.  **If you have pyaudio install problems , that solve this :**
+   Windows
+   ```bash
+   python -m pip install pyaudio
+   ```
+   
+   macOS
+   Use Homebrew to install the prerequisite portaudio library, then install PyAudio using pip:
+    
+   ```bash
+   brew install portaudio
+   pip install pyaudio
+   ```
+   GNU/Linux
+   Use the package manager to install PyAudio. For example, on Debian-based systems:
+   ```bash
+   sudo apt install python3-pyaudio
+   ```
+   Alternatively, if the latest version of PyAudio is not available, install it using pip. Be sure to first install development libraries for portaudio19 and python3.
+   
+
+5. **Install Dependencies**:  
    Next, install the required packages listed in `requirements.txt` by running:
    
    ```bash
    pip install -r requirements.txt
    ```
 
-5. **Run the Application**:  
+6. **Run the Application**:  
    To start the application, simply run:
    
    ```bash
