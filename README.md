@@ -82,12 +82,4 @@ Using Flask for the web interface ensures that the program can be controlled rem
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Key Points Covered:
-1. **How to Install**: Step-by-step instructions for downloading Ollama, setting up a virtual environment, and installing dependencies.
-2. **Features**: Detailed breakdown of the functionality and the reasons behind key choices like the "Push-to-Talk" system.
-3. **Web Application**: Explanation of the use of Flask to make the application accessible from multiple devices.
-4. **Professional Tone**: The README is designed to be clean and easy to follow for developers or users who want to set up and use the program.
-
-Let me know if you'd like to adjust anything further!
