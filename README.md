@@ -1,4 +1,6 @@
 
+
+
 # Hack the Interview
 
 **Hack the Interview** is an innovative Python program designed to assist in online interviews by listening to audio and providing instant answers. The answers are displayed on the left side of the screen, creating an efficient and seamless interaction between the interviewer and the interviewee.
@@ -77,14 +79,7 @@ Here’s a screenshot of how the interface looks:
 
 Using Flask for the web interface ensures that the program can be controlled remotely, which is critical for online interviews where physical presence may be limited or not possible. The system uses efficient speech recognition to transcribe and generate responses quickly, making it suitable for real-time interactions during interviews. The program also avoids audio recording to maintain privacy and focuses solely on text output during the interview process.
 
-## Contact
-
-For a **fine-tuned** version of the Llama model or additional questions, feel free to reach out to me at **erguncalbay2@gmail.com**. I’m open to collaborating on further improvements for software interviews.
-
-## Contributing
-
-I welcome contributions! If you have ideas, improvements, or want to help make the project even better, please feel free to submit a pull request. I’ll consider every contribution with great interest.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
