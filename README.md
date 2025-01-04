@@ -73,7 +73,7 @@ The program operates as a web application, enabling users to access the service 
 
 Here’s a screenshot of how the interface looks:
 
-![Screenshot](path/to/screenshot.png)
+![Screenshot](images/screenshoot.png)
 
 ## Why This Approach?
 
