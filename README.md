@@ -3,6 +3,7 @@
 
 # Hack the Interview
 
+![Screenshot](images/head.png)
 **Hack the Interview** is an innovative Python program designed to assist in online interviews by listening to audio and providing instant answers. The answers are displayed on the left side of the screen, creating an efficient and seamless interaction between the interviewer and the interviewee.
 
 ## Features
