@@ -25,7 +25,14 @@
 1. **Download Ollama**:  
    Visit [Ollama](https://ollama.com/) and download the Ollama software. It’s essential for accessing the Llama 8B model.
 
-2. **Create a Virtual Environment**:  
+2. **Clone Repo**:  
+   
+   
+   ```bash
+   git clone git@github.com:mock3ng/InterviewLLM.git
+   ```
+
+3. **Create a Virtual Environment**:  
    It's recommended to use a virtual environment for managing dependencies. To create one, use the following commands:
    
    ```bash
@@ -33,14 +40,14 @@
    source venv/bin/activate  # On Windows, use venv\Scripts\activate
    ```
 
-3. **Install Dependencies**:  
+4. **Install Dependencies**:  
    Next, install the required packages listed in `requirements.txt` by running:
    
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the Application**:  
+5. **Run the Application**:  
    To start the application, simply run:
    
    ```bash
